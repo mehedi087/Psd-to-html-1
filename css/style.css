@@ -1,0 +1,201 @@
+
+
+.header .navbar{
+  width: 100%;
+    background: linear-gradient( #7B6B7A , #24687B );
+}
+
+.nav-item{
+    font-size: 20px !important;
+    padding: 0px 15px;
+   padding-bottom: 20px !important;
+}
+.dropdown-menu .dropdown-item{
+    background: linear-gradient(#7B6B7A , #24687B);
+    color: aliceblue;
+    font-size: 20px;
+}
+.dropdown-menu{
+    background: linear-gradient(#7B6B7A , #24687B);
+}
+
+.header .text{
+    background:linear-gradient(#24687B, #24687B,#7B6B7A );
+    height: 70vh;
+
+}
+.paul{
+  font-weight: 800;
+    letter-spacing: 4px;
+}
+
+.text{
+    padding-top: 200px !important;
+}
+
+@media  only screen  and ( max-width:574px){
+    .paul{
+        font-size: 30px;
+        display: inline-block;
+    }
+    
+}
+
+/* @ header end ############## */
+
+
+/* seco 1 ################################## */
+
+@media  only screen  and ( max-width:574px){
+    .sec1{
+    text-align: center;
+   
+   
+    }
+  
+    
+}
+
+.btn1{
+    border: none !important;
+    box-shadow: none !important;
+    width: 200px !important;
+    height: 47px !important;
+}
+
+
+/* seco 2 ################################## */
+
+.seco2{
+    background:#f6f6f6;
+
+}
+
+
+#seco2 .box1{
+    height: 280px;
+    width: auto;
+    background-color: #10c6fc;
+    color: white;
+    padding-top: 80px;
+    font-size: 30px;
+}
+
+#seco2 .bx{
+    font-size: 50px;
+}
+
+#seco2 .box2{
+    height: 280px;
+    width: auto;
+    background-color: #835aeb;
+    color: white;
+    padding-top: 80px;
+    font-size: 30px;
+}
+
+#seco2 .box3{
+    height: 280px;
+    width: auto;
+    background-color: #002453;
+    color: white;
+    padding-top: 80px;
+    font-size: 30px;
+}
+
+#seco2 .box4{
+    height: 280px;
+    width: auto;
+    background-color: #ff2b4a;
+    color: white;
+    padding-top: 80px;
+    font-size: 30px;
+}
+/* seco 4 ############### */
+
+#seco4 .box5{
+    height: 280px;
+    width: auto;
+    background-color: #10c6fc;
+
+}
+#seco4 .box6{
+    height: 280px;
+    width: auto;
+    background-color: #835aeb;
+
+}
+#seco4 .box7{
+    height: 280px;
+    width: auto;
+    background-color: #002453;
+
+}
+#seco4 .box8{
+    height: 280px;
+    width: auto;
+    background-color: #ff2b4a;
+
+}
+
+#seco4 .box9{
+    height: 280px;
+    width: auto;
+    background-color: #835aeb;
+
+}
+
+#seco4 .box10{
+    height: 280px;
+    width: auto;
+    background-color: #002453;
+
+}
+
+#seco4 .box11{
+    height: 280px;
+    width: auto;
+    background-color: #ff2b4a;
+
+}
+
+/* seco 6 ####################### */
+
+
+
+#seco6 .btnn{
+text-align: end;
+
+    
+}
+
+.btn2{
+    padding: 6px 50px;
+    box-shadow: none !important;
+}
+
+
+/* footer############## */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
